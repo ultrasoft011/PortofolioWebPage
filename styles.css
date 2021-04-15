@@ -1,0 +1,37 @@
+* {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.portofolio {
+    width: 373px;
+    height: 275px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-image: url(./bg.png);
+    background-color: rgba(93, 58, 44, 0.466);
+    background-blend-mode: overlay;
+}
+
+h1 {
+    padding: 36px 50px;
+}
+
+h2 {
+    padding-bottom: 13px;
+    line-height: 5px;
+    font-weight: normal;
+    
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+h4 {
+    font-weight: normal;
+    font-size: 19px;
+    padding-bottom: 50px;
+    text-decoration: underline;
+}
