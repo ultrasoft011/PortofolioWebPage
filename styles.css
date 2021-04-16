@@ -80,8 +80,9 @@
 }
 
 .skills-1 {
-    height: 40px;
+    height: 30px;
     display: flex;
+    justify-content: center;
 }
 
 #box-1 {
@@ -107,4 +108,16 @@ ul {
 
 #li-profile {
     padding-bottom: 31px;
+}
+
+#li-tools {
+    padding-top: 15px;
+}
+
+#li-design {
+    padding-top: 18px;
+}
+
+#li-UX {
+    padding-top: 15px;
 }
