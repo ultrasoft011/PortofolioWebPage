@@ -85,15 +85,54 @@
     justify-content: center;
 }
 
+.skills-2 {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.skills-3 {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
 #box-1 {
     background-color: #C66C49;
-    width: 55%;
+    width: 65%;
     height: 50%;
 }
 
 #box-2 {
     background-color: #F5D6AB;
-    width: 45%;
+    width: 35%;
+    height: 50%;
+}
+
+.skills-2 #box-1 {
+    background-color: #C66C49;
+    width: 80%;
+    height: 50%;
+}
+
+.skills-2 #box-2 {
+    background-color: #F5D6AB;
+    width: 20%;
+    height: 50%;
+}
+
+
+.skills-3 #box-1 {
+    background-color: #C66C49;
+    width: 85%;
+    height: 50%;
+}
+
+.skills-3 #box-2 {
+    background-color: #F5D6AB;
+    width: 15%;
     height: 50%;
 }
 
