@@ -161,7 +161,38 @@ ul {
     padding-top: 15px;
 }
 
+.UX-research {
+    text-align: center;
+
+}
+
+.UX-research h2 {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.UX-research p {
+    padding: 15px 33px 20px 34px;
+    font-size: 12px;
+}
+
 .rectangle {
     position: relative;
     bottom: 45px;
+}
+
+.rectangle-1 {
+    position: relative;
+    left: 10px;
+}
+
+.rectangle-2 {
+    position: relative;
+    bottom: 35px;
+}
+
+.rectangle-3 {
+    position: relative;
+    left: 10px;
+    bottom: 35px;
 }
