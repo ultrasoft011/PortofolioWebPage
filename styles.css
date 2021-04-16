@@ -196,3 +196,22 @@ ul {
     left: 10px;
     bottom: 35px;
 }
+
+.get-in-touch {
+    background-color: #FFFAF2;
+    ;
+}
+.get-in-touch h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.cointainer-get {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.get-left {
+    padding-left: 42px;
+    padding-right: 90px;
+}
