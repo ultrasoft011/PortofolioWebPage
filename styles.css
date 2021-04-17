@@ -143,6 +143,7 @@ ul {
 
 #ul-right {
     padding-left: 16px;
+    padding-bottom: 15px;
 }
 
 #li-profile {
@@ -203,6 +204,7 @@ ul {
 }
 .get-in-touch h1 {
     font-size: 24px;
+    padding-top: 26px;
     text-align: center;
 }
 
@@ -214,4 +216,9 @@ ul {
 .get-left {
     padding-left: 42px;
     padding-right: 90px;
+}
+
+.get-end {
+    padding-left: 42px;
+    padding-bottom: 50px;
 }
