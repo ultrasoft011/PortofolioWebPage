@@ -175,6 +175,8 @@ ul {
 
 .UX-research {
     text-align: center;
+    width: 373px;
+    height: auto;
 
 }
 
@@ -211,7 +213,8 @@ ul {
 
 .get-in-touch {
     background-color: #FFFAF2;
-    ;
+    width: 375px;
+    height: auto;
 }
 .get-in-touch h1 {
     font-size: 24px;
