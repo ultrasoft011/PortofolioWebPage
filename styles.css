@@ -2,6 +2,10 @@
     font-family: 'Libre Franklin', sans-serif;
 }
 
+a {
+    color: white;
+}
+
 .portofolio {
     width: 373px;
     height: 275px;
@@ -36,6 +40,11 @@
     text-decoration: underline;
 }
 
+.about {
+    width: 373px;
+    height: auto;
+}
+
 .about h1 {
     padding-top: 10px;
     text-align: center;
@@ -48,6 +57,8 @@
 
 .skills {
     background-color: #FFFAF2;
+    width: 373px;
+    height: auto;
 }
 
 .skills h1 {
